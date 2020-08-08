@@ -22,7 +22,7 @@ from Manager.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hello {}, my name is {}!
 
-I KNOW HOW TO HANDLE MEMBERS IN THE GROUP
+I KNOW HOW TO HANDLE MEMBERS IN THE GROUP!
 
 My owner is [JOEY](t.me/joey_dsvs1)
 
